@@ -1,0 +1,114 @@
+{
+  "content": "Welcome to the TLS Community Server!\n\nThis is a comprehensive guide/FAQ for the server! if you need more help, feel free to ask a question in #help!",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 652627557,
+      "title": "What's this server for?",
+      "description": "This server is for Hanging out, Sharing cool creations and meida, and also for getting updates for TLS's Projects!",
+      "color": 15662918,
+      "fields": [],
+      "footer": {
+        "text": "beep boop"
+      }
+    },
+    {
+      "id": 10674342,
+      "title": "What are the channels for TLS's Projects?",
+      "description": "The main channels for this will be:",
+      "color": 15662194,
+      "fields": [
+        {
+          "id": 159219443,
+          "name": "#sneak-peaks",
+          "value": "this channel has  sneak peaks for TLS's upcoming projects!"
+        },
+        {
+          "id": 922170924,
+          "name": "#videos",
+          "value": "this channel showcases videos made by TLS and will have announcements for when new ones come around!"
+        },
+        {
+          "id": 501716362,
+          "name": "#releases",
+          "value": "this channel showcases all the finished projects by TLS!"
+        }
+      ],
+      "footer": {
+        "text": "bop bap?"
+      }
+    },
+    {
+      "id": 985532046,
+      "description": "The #Projects category includes channels like:",
+      "fields": [
+        {
+          "id": 953848181,
+          "name": "#drawings",
+          "value": "for sharing your drawings, digital or physical!"
+        },
+        {
+          "id": 999292327,
+          "name": "#videos",
+          "value": "for sharing videos you've made or videos which showcase your art!"
+        },
+        {
+          "id": 969926122,
+          "name": "#coding",
+          "value": "for asking coding related questions or sharing your cool code!"
+        },
+        {
+          "id": 646848660,
+          "name": "#etc",
+          "value": "for sharing other projects and creations you've made!"
+        },
+        {
+          "id": 813101010,
+          "name": "#self-promo",
+          "value": "this channel is for self promotion, dont feel afraid to send your name in it!\nP.S. please do not use other channels for this purpose"
+        }
+      ],
+      "title": "Where can i share my own creations?",
+      "color": 15726249,
+      "footer": {
+        "text": "beep bap bop boop??"
+      }
+    },
+    {
+      "id": 971037234,
+      "description": "The #Activties category includes channels like:",
+      "fields": [
+        {
+          "id": 816146790,
+          "name": "https://discord.com/channels/1228051694492061798/1228052100072603739",
+          "value": "You can share random song quotes or attempt to coordinate to sing a whole song together!",
+          "inline": false
+        },
+        {
+          "id": 745072606,
+          "name": "#keyboard-mashing",
+          "value": "this channel's only reason to exist is to stim happily! mash as you'd like!"
+        },
+        {
+          "id": 150681133,
+          "name": "#counting-channel",
+          "value": "count as far as you'd like! if someone breaks the loop everyone restarts!"
+        },
+        {
+          "id": 781277391,
+          "name": "#game-screenshots",
+          "value": "Share screenshots from a game you play!"
+        },
+        {
+          "id": 947497876,
+          "name": "#out-of-context-quotes",
+          "value": "Quote other server members(with permission of course.)!"
+        }
+      ],
+      "color": 16383445,
+      "title": "What are the activties in this server?"
+    }
+  ],
+  "components": [],
+  "actions": {}
+}
